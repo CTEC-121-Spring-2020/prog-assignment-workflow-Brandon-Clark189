@@ -1,8 +1,8 @@
 """
 CTEC 121
-<your name>
-<assignment/lab name>
-<assignment/lab description
+Brandon Norton
+Programming Assignment
+Assignment Workflow
 """
 
 """ IPO template
@@ -12,6 +12,7 @@ Output: return value and description
 """
 
 def main():
-    # code here
-
+    print("Hello World!")
+    print("This code shows my text in the terminal!")
+    print("It's pretty cool!")
 main()    
